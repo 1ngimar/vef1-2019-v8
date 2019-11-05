@@ -124,5 +124,5 @@ const text = (() => {
 
     return {
         init: init
-    }
+    };
 })();
